@@ -1,0 +1,9 @@
+Package: com.c00kiec00k.dy
+Name: TiktokSpeed
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: cookiecook
+Author: cookiecook
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
