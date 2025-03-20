@@ -2,8 +2,6 @@
 //By @c00kiec00k
 //2025.3.21
 
-
-
 #import "AWETikTokSpeed.h"
 #import <UIKit/UIKit.h>
 #import <objc/runtime.h>
